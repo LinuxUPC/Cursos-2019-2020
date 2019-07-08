@@ -7,10 +7,10 @@
 ## Competencies
 
 * Demostrar coneixement i comprensió dels fets essencials i conceptes de les abstraccions a l'entorn Linux.
-1. Demostrar la capacitat d'utilitzar les abstraccions de l'entorn Linux per tal de ser fluït treballant en l'entorn.
+  1. Demostrar la capacitat d'utilitzar les abstraccions de l'entorn Linux per tal de ser fluït treballant en l'entorn.
 * Demostrar coneixement i comprensió de les eines que les diferents distribucions de Linux ofereixen.
-1. Demostrar coneixement de les diferents tècniques amb les que s'empren les eines oferides per les distribucions de Linux.
-2. Demostrar habilitat per a construir mecanismes de treball en l'entorn Linux amb les eines que les seves distribucions ofereixen.
+  1. Demostrar coneixement de les diferents tècniques amb les que s'empren les eines oferides per les distribucions de Linux.
+  2. Demostrar habilitat per a construir mecanismes de treball en l'entorn Linux amb les eines que les seves distribucions ofereixen.
 
 ## Objectius
 
