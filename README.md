@@ -3,10 +3,10 @@
 En aquest fixer hi ha una breu explicacio dels cursos planejats per el proper
 curs 2019-2020.
 
-1. [VIM](#vim)
-2. [LaTeX](#latex)
-3. [GIT](#git)
-4. [INTRODUCIO AL TERMINAL DE LINUX](#introducció-al-terminal-de-linux)
+1. [VIM](https://github.com/LinuxUPC/Cursos-2019-2020/tree/master/VIM)
+2. [LaTeX](https://github.com/LinuxUPC/Cursos-2019-2020/tree/master/LaTeX)
+3. [GIT](https://github.com/LinuxUPC/Cursos-2019-2020/tree/master/GIT)
+4. [INTRODUCIO AL TERMINAL DE LINUX](https://github.com/LinuxUPC/Cursos-2019-2020/tree/master/Introduction-to-linux-terminal)
 
 ## Metodologia Docent
 
