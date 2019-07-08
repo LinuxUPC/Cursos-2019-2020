@@ -6,7 +6,7 @@
 ## Competencies
 
 * Demostrar coneixement i comprensió de l'objectiu dels llenguatges de marcatge.
-1. Demostrar coneixement i comprensió de l'objectiu del llenguatge LaTeX.
+  1. Demostrar coneixement i comprensió de l'objectiu del llenguatge LaTeX.
 * Demostrat coneixement i comprensio de la sintaxis del llenguatge LaTeX.
 * Demostrar capacitat de recerca per tal d'ampliar els coneixements en la materia.
 
