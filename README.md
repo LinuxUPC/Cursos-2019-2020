@@ -88,44 +88,44 @@ curs 2019-2020.
 
 #### Contingut
 
-1. Introducció.
+1. <a name="introduccio"></a> Introducció.
 Una breu introducció a l'entorn Linux.
 
-2. Sistema de fitxers.
+2. <a name="sistema-fitxers"></a> Sistema de fitxers.
 
-3. Usuaris i grups.
+3. <a name="usuaris-grups"></a> Usuaris i grups.
 
-4. Fitxers.
+4. <a name="fitxers"></a> Fitxers.
 Una explicació de com crear carpetes
 
-5. Variables d'entorn.
+5. <a name="variables"></a> Variables d'entorn.
 
-6. AWK.
+6. <a name="awk"></a> AWK.
 
-7. SED.
+7. <a name="sed"></a> SED.
 
-8. Bash scripting.
+8. <a name="bash-scripting"></a> Bash scripting.
 
 
 #### Activitats
 
-> **Teoria i problemes dels temes [1](1.introduccio.) i [2](2.sistemes-de-fitxers.)**
+> **Teoria i problemes dels temes [1](#introduccio) i [2](#sistema-fitxers)**
 > 
 > Participar activament a una sessió explicativa-participativa i realitzar un breu qüestionari.
 
-> **Teoria i problemes dels temes [3](3.ususaris-i-grups.), [4](4.fitxers.) i [5](5.variables-d'entorn.)**
+> **Teoria i problemes dels temes [3](#ususaris-grups), [4](#fitxers) i [5](#variables)**
 >
 > Participar activament a una sessió explicativa-participativa i realitzar un breu qÜestionari.
 
-> **Teoria i problemes del tema [6](6.awk.)**
+> **Teoria i problemes del tema [6](#awk)**
 >
 > Participar activament a una sessió explicativa-participativa i realitzar un breu qüestionari.
 
-> **Teoria i problemes del tema [7](7.sed.)**
+> **Teoria i problemes del tema [7](#sed)**
 >
 > Participar activament a una sessió explicativa-participativa i realitzar un breu qüestionari.
 
-> **Teoria i problemes del tema [8](8.bash-scripting.)**
+> **Teoria i problemes del tema [8](#bash-scripting)**
 >
 > Participar activament a una sessió explicativa-participativa i realitzar un breu qüestionari.
 
