@@ -52,23 +52,23 @@ Una explicació de com crear carpetes
 
 ## Activitats
 
-> **Teoria i problemes dels temes [1](#t-introduccio) i [2](#t-sistema-fitxers)**
-> 
-> Participar activament a una sessió explicativa-participativa i realitzar un breu qüestionari.
+| **Teoria i problemes dels temes [1](#t-introduccio) i [2](#t-sistema-fitxers)** |
+| --- | 
+| Participar activament a una sessió explicativa-participativa i realitzar un breu qüestionari. |
 
-> **Teoria i problemes dels temes [3](#t-ususaris-grups), [4](#t-fitxers) i [5](#t-variables)**
->
-> Participar activament a una sessió explicativa-participativa i realitzar un breu qÜestionari.
+| **Teoria i problemes dels temes [3](#t-usuaris-grups), [4](#t-fitxers) i [5](#t-variables)** |
+| --- |
+| Participar activament a una sessió explicativa-participativa i realitzar un breu qüestionari. |
 
-> **Teoria i problemes del tema [6](#t-awk)**
->
-> Participar activament a una sessió explicativa-participativa i realitzar un breu qüestionari.
+| **Teoria i problemes del tema [6](#t-awk)** |
+| --- |
+| Participar activament a una sessió explicativa-participativa i realitzar un breu qüestionari. |
 
-> **Teoria i problemes del tema [7](#t-sed)**
->
-> Participar activament a una sessió explicativa-participativa i realitzar un breu qüestionari.
+| **Teoria i problemes del tema [7](#t-sed)** |
+| --- |
+| Participar activament a una sessió explicativa-participativa i realitzar un breu qüestionari. |
 
-> **Teoria i problemes del tema [8](#t-bash-scripting)**
->
-> Participar activament a una sessió explicativa-participativa i realitzar un breu qüestionari.
+| **Teoria i problemes del tema [8](#t-bash-scripting)** |
+| --- |
+| Participar activament a una sessió explicativa-participativa i realitzar un breu qüestionari. |
 
