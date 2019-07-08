@@ -58,7 +58,7 @@ curs 2019-2020.
 ### Introducció al terminal de linux
 
 - Professor : unknown
-- Hores		: unknown
+- Hores		: 10 h
 
 #### Competencies
 
