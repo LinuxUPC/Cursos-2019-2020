@@ -31,21 +31,63 @@ curs 2019-2020.
 
 ### LaTeX
 
-- Professor : unknown
-- Hores		: unknown
+- Professor	: unknown
+- Hores		: 5 h
 
 #### Competencies
 
+* Demostrar coneixement i comprensió de l'objectiu dels llenguatges de marcatge.
+1. Demostrar coneixement i comprensió de l'objectiu del llenguatge LaTeX.
+* Demostrat coneixement i comprensio de la sintaxis del llenguatge LaTeX.
+* Demostrar capacitat de recerca per tal d'ampliar els coneixements en la materia.
+
 #### Objectius
+
+* Explicar amb paraules propies la utilitat del llenguatge LaTeX.
+* Compentre la sintaxis de LaTeX i saber usarla.
+* Coneixer les paraules claus de latex i saber usarles.
+* Crear documents de tota mena i les seves caracteritiques.
+  * Crear articles.
+  * Crear presentacions.
+* Ser capas de crear les propies macros per tal ser mes fluid en l'escriptura.
+* Compendre la necesitat de bibliografies.
+  * Saber utilitzar les bibliografies en l'entorn LaTeX.
+  * Saber crear les propies bibliografies.
 
 #### Contingut
 
+1. <a name="l-introduccio"></a> Introducció.
+
+2. <a name="l-entorn"></a> Entorn de treball.
+
+3. <a name="l-estroctura"></a> Estroctura d'un projecte.
+
+4. <a name="l-article"></a> Article.
+
+5. <a name="l-beamer"></a> Presentacio.
+
+6. <a name="l-macros"></a> Macros.
+
+7. <a name="l-bib"></a> Bibliografies.
+
 #### Activitats
+
+> **Teoria i problemes dels temes [1](#l-introduccio), [2](#l-entorn), [3](#l-estroctura)**
+> 
+> Participar activament a una sessió explicativa-participativa i realitzar un breu qüestionari.
+
+> **Teoria i problemes dels temes [4](#l-article), [5](#l-beamer)**
+> 
+> Participar activament a una sessió explicativa-participativa i realitzar un breu qüestionari.
+
+> **Teoria i problemes dels temes [6](#l-macros), [7](#l-bib)**
+> 
+> Participar activament a una sessió explicativa-participativa i realitzar un breu qüestionari.
 
 ### GIT
 
-- Professor : unknown
-- Hores		: unknown
+* Professor : unknown
+* Hores		: unknown
 
 #### Competencies
 
@@ -57,11 +99,10 @@ curs 2019-2020.
 
 ### Introducció al terminal de linux
 
-- Professor : unknown
-- Hores		: 10 h
+* Professor : unknown
+* Hores		: 10 h
 
 #### Competencies
-
 
 * Demostrar coneixement i comprensió dels fets essencials i conceptes de les abstraccions a l'entorn Linux.
 1. Demostrar la capacitat d'utilitzar les abstraccions de l'entorn Linux per tal de ser fluït treballant en l'entorn.
@@ -80,7 +121,7 @@ curs 2019-2020.
   * Comprendre el significat de propietat d'un fitxer.
   * Comprendre el significat dels permisos de fitxers.
 * Comprendre l'ús de les variables d'entorn.
-  * Comprensió de la variable 'PATH', 'LD_LIBRARY_PATH' antre d'altres.
+  * Comprensió de la variable `PATH`, `LD_LIBRARY_PATH` antre d'altres.
   * Aprendre a utilitzar les variables d'entorn com a eina.
 * Manipulació i edició de fitxers de text.
   * Aprendre les nocions bàsiques d'AWK.
@@ -88,44 +129,44 @@ curs 2019-2020.
 
 #### Contingut
 
-1. <a name="introduccio"></a> Introducció.
+1. <a name="t-introduccio"></a> Introducció.
 Una breu introducció a l'entorn Linux.
 
-2. <a name="sistema-fitxers"></a> Sistema de fitxers.
+2. <a name="t-sistema-fitxers"></a> Sistema de fitxers.
 
-3. <a name="usuaris-grups"></a> Usuaris i grups.
+3. <a name="t-usuaris-grups"></a> Usuaris i grups.
 
-4. <a name="fitxers"></a> Fitxers.
+4. <a name="t-fitxers"></a> Fitxers.
 Una explicació de com crear carpetes
 
-5. <a name="variables"></a> Variables d'entorn.
+5. <a name="t-variables"></a> Variables d'entorn.
 
-6. <a name="awk"></a> AWK.
+6. <a name="t-awk"></a> AWK.
 
-7. <a name="sed"></a> SED.
+7. <a name="t-sed"></a> SED.
 
-8. <a name="bash-scripting"></a> Bash scripting.
+8. <a name="t-bash-scripting"></a> Bash scripting.
 
 
 #### Activitats
 
-> **Teoria i problemes dels temes [1](#introduccio) i [2](#sistema-fitxers)**
+> **Teoria i problemes dels temes [1](#t-introduccio) i [2](#t-sistema-fitxers)**
 > 
 > Participar activament a una sessió explicativa-participativa i realitzar un breu qüestionari.
 
-> **Teoria i problemes dels temes [3](#ususaris-grups), [4](#fitxers) i [5](#variables)**
+> **Teoria i problemes dels temes [3](#t-ususaris-grups), [4](#t-fitxers) i [5](#t-variables)**
 >
 > Participar activament a una sessió explicativa-participativa i realitzar un breu qÜestionari.
 
-> **Teoria i problemes del tema [6](#awk)**
+> **Teoria i problemes del tema [6](#t-awk)**
 >
 > Participar activament a una sessió explicativa-participativa i realitzar un breu qüestionari.
 
-> **Teoria i problemes del tema [7](#sed)**
+> **Teoria i problemes del tema [7](#t-sed)**
 >
 > Participar activament a una sessió explicativa-participativa i realitzar un breu qüestionari.
 
-> **Teoria i problemes del tema [8](#bash-scripting)**
+> **Teoria i problemes del tema [8](#t-bash-scripting)**
 >
 > Participar activament a una sessió explicativa-participativa i realitzar un breu qüestionari.
 

@@ -1,0 +1,54 @@
+\documentclass{beamer}
+
+\mode<presentation> {
+	\usetheme{Madrid}
+}
+
+\usepackage{graphicx}
+\usepackage{booktabs} 
+\usepackage{hyperref}
+\usepackage{caption}
+\usepackage{subfig}
+
+\captionsetup[subfigure]{labelformat=empty}
+\captionsetup[figure]{labelformat=empty}
+
+
+\AtBeginSection[]
+{
+	\begin{frame}<beamer>
+	\frametitle{Outline}
+	\tableofcontents[currentsection]
+	\end{frame}
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%                     TITLE PAGE                       %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\title[Git Workshop]{Git workshop}
+
+\author{Profesor del curs}
+\institute[LinuxUPC]
+{
+	LinuxUPC \\
+	\textit{linuxupc at linuxupc.upc.edu}
+}
+\date{\today}
+
+\begin{document}
+
+\begin{frame}
+	\titlepage
+\end{frame}
+
+\begin{frame}
+	\frametitle{Outline}
+	\tableofcontents
+\end{frame}
+
+\include{introduction.tex}
+
+\include{conclusion.tex}
+
+\end{document}
