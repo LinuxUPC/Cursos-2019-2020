@@ -6,7 +6,7 @@ curs 2019-2020.
 1. [VIM](#vim)
 2. [LaTeX](#latex)
 3. [GIT](#git)
-4. [INTRODUCTION TO LINUX TERMINAL](#introduction-to-linux-terminal)
+4. [INTRODUCIO AL TERMINAL DE LINUX](#introducció-al-terminal-de-linux)
 
 ## Metodologia Docent
 
@@ -55,7 +55,7 @@ curs 2019-2020.
 
 #### Activitats
 
-### Introduction to linux terminal
+### Introducció al terminal de linux
 
 - Professor : unknown
 - Hores		: unknown
