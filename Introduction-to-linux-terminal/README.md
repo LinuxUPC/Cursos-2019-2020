@@ -58,7 +58,7 @@ Una explicació de com crear carpetes
 
 > **Teoria i problemes dels temes [3](#t-ususaris-grups), [4](#t-fitxers) i [5](#t-variables)**
 >
-> Participar activament a una sessió explicativa-participativa i realitzar un breu qÜestionari.
+> Participar activament a una sessió explicativa-participativa i realitzar un breu qüestionari.
 
 > **Teoria i problemes del tema [6](#t-awk)**
 >
